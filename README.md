@@ -1,2 +1,1 @@
-# Face-Mask-Detection-ippr
-ippr project 
+# IPPR-project-face-mask-detection-
